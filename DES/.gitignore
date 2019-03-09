@@ -1,0 +1,5 @@
+*.o
+*.win
+*.dev
+*.exe
+./python/_pycache_
